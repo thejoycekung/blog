@@ -6,7 +6,7 @@ Huge shoutout to Jonathan McGlone for his [tutorial](http://jmcglone.com/guides/
 
 Will update this post with some stuff once things actually start ... fully working.
 
-============================
+--------------------------
 
 UPDATE:
 
@@ -19,9 +19,11 @@ So after writing the first blog post (and splitting it into two, since I realise
 After moving things around over .. and over .. and over again, I stumbled upon a tutorial for using Github Pages for my blog (see link above). I finally configured things properly, so now you can actually access my blog! Believe it or not.
 
 Now there's a ton of stuff to fix:
-1. Fix index page.
+
+1. Fix index page.  
     A Bootstrap theme of some sort will do, it'll basically just serve as my portfolio. I'll link all the important things too. I can properly style it up once some of these major things have been fixed.
-2. Fix Jekyll theme.
+    
+2. Fix Jekyll theme.  
     Right now it's really bugging me that I can't just have a straight feed of all my posts, which is what I really need in my life. Hopefully I can figure out how this whole Jekyll thing works, like, quickly. Because right now it looks kind of ridiculous and has the "Tumblr theme garden" look to it. Which is, quite frankly, as a former theme designer, disgusting.
 
 I can't believe just setting this up took so much already ...

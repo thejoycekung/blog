@@ -1,5 +1,4 @@
-# A (Pretty Late) Year in Review (Part I of II)
-## In which I discuss last year's failures, and this year's hopes.
+# In which I discuss last year's failures, and this year's hopes.
 
 ------------------------------------------------
 
