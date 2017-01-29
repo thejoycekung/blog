@@ -20,4 +20,4 @@ In the last quarter of the year, I had a chance to learn DrRacket thanks to the 
 
 2016 was a long year, and I tried to take care of myself, but I know I can do more. Not only that, I know I can do better.
 
-*(You can read Part II of this post [here](/2017/01/29/A-Look-To-Future.html).)*
+*(You can read Part II of this post [here](/2017/01/29/A-Look-to-the-Future-(Part-II)/.)*
