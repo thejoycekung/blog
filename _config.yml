@@ -1,9 +1,9 @@
 # Site settings
-title: jks by jk
+title: life.log
 author: Joyce Kung
 header-img: img/home-bg.jpg
 email: thejoycekung@gmail.com
-description: "Posts and Jokes. I think."
+description: ""
 baseurl: "/blog"
 url: "http://thejoycekung.github.io"
 twitter_username: seeroflights
