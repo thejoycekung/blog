@@ -14,7 +14,8 @@ description: "the joke is that it's just another devblog"
         </h3>
         {% endif %}
     </a>
-    <p class="post-meta">Posted by Joyce on {{ post.date | date: "%B %-d, %Y" }}</p>
+    <p class="post-meta">Posted on {{ post.date | date: "%B %-d, %Y" }}</p>
+    <p>{{ post.excerpt }}</p>
 </div>
 <hr>
 {% endfor %}
