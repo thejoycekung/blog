@@ -233,6 +233,8 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-paginate
+  jekyll-remote-theme
 
 BUNDLED WITH
    1.16.1
