@@ -21,6 +21,8 @@ paginate: 5
 exclude: ["Gruntfile.js","README.md"]
 
 plugins: [jekyll-paginate, jekyll-remote-theme]
-remote_theme: chesterhow/tale
+theme: tale
+
+
 
 permalink:      /:year-:month-:day/:title
