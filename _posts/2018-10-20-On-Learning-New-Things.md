@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning New Things (and Being a #Better Person)
+title: Learning New Things (and Being a Better Person)
 date: 2018-10-20
 ---
 
