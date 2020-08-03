@@ -38,3 +38,5 @@ I definitely wish I felt more comfortable with Terraform. The Terraform file tha
 I also struggled with Kubernetes! Running through Kubernetes the Hard Way was helpful for me understanding the basics of how K8s clusters work and how everything is wired together but still I struggled a little with the setup.
 
 Overall - the things I was familiar with were (mostly) the things I did well on, and the new stuff I did less well on. That's okay - onwards and upwards!
+
+Another note - this is called a "postmortem" but I don't know if this project is quite dead yet. We might come back!
